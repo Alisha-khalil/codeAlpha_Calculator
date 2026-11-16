@@ -5,7 +5,7 @@ A responsive and interactive calculator developed using HTML, CSS, and JavaScrip
 
 ## Project Links
 
-- **Live Demo:** [View Live Calculator](https://sayyed-alisha-khalil.github.io/codeAlpha_Calculator/)
+- **Live Demo:**https://alisha-khalil.github.io/codeAlpha_Calculator/
 - **Source Code:** [GitHub Repository](https://github.com/Sayyed-Alisha-Khalil/codeAlpha_Calculator)
 
 ## About the Project
